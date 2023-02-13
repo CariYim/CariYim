@@ -1,0 +1,14 @@
+### Hi there 👋
+
+<!--
+**CariYim/CariYim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
+
+- 🔭 I’m currently working on Natural Language Processing (NLP) sentiment analysis
+- 🌱 I’m currently learning Machine Learning and UX Design
+- 👯 I’m looking to collaborate on any projects relating to Social Science and Linguistics
+- 📫 How to reach me: Discord Cary#3246
+- 😄 Pronouns: she/her/hers
+- 💜 Fun fact: luv Anime, Lolita fashion, English Afternoon Tea🍰☕
+
