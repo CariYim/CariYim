@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Natural Language Processing (NLP) sentiment analysis
+- 🔭 I’m currently working on Natural Language Processing (NLP) Sentiment Analysis
 - 🌱 I’m currently learning Machine Learning and UX Design
 - 👯 I’m interesting in collaborating on projects relating to Social Science and Linguistics
 - 📫 How to reach me: Discord Cary#3246
