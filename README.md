@@ -10,5 +10,5 @@ Here are some ideas to get you started:-->
 - 👯 I’m interesting in collaborating on projects relating to Social Science and Linguistics
 - 📫 How to reach me: Discord Cary#3246
 - 🎀 Pronouns: she/her/hers
-- 💜 Fun fact: luv Anime, Lolita fashion, English Afternoon Tea🍰☕
+- 💜 Fun fact: I luv anime, lolita fashion, English afternoon tea🍰☕
 
