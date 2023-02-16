@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Natural Language Processing (NLP) Sentiment Analysis
 - 🌱 I’m learning Machine Learning and UX Design
-- 👯 I’m interested in collaborating on projects relating to Social Science and Linguistics
+- 👯 Collaboration: I’m interested in projects relating to Social Science and Linguistics
 - 📫 How to reach me: Discord Cary#3246
 - 🎀 Pronouns: she/her/hers
 - 💜 Fun fact: I luv anime, lolita fashion, English afternoon tea🍰☕
