@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently studying studying IT Data Analytics in NSCC
-- 🌱 I’m learning Machine Learning and UX Design
-- 👯 Collaboration: I’m interested in projects relating to Bsuiness, Social Science and Linguistics
+- 🔭 I’m a graduate from NSCC IT Data Analytics, currently working in Project Coordination for an NGO 
+- 🌱 I’m learning Tableau and enhancing my skills in Python and R
+- 👯 Collaboration: I’m interested in data / research related projects about Business, Social Science and Linguistics
 - 📫 How to reach me: Discord Cary#3246
 - 🎀 Pronouns: she/her/hers
 - 💜 Fun fact: I luv anime, lolita fashion, English afternoon tea🍰☕
